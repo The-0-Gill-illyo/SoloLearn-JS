@@ -43,5 +43,5 @@ console.log(20>18) outputs true.
 function main() {
     var age = parseInt(readLine(), 10)
     //Your code goes here
-    console.log(age>18)
+    console.log(age >= 18)
 }
