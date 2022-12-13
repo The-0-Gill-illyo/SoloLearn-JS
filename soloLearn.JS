@@ -19,8 +19,7 @@ Since each computer has 2 monitors, simply multiply the count of the computers b
 Use the multiplication operator (*).
  */
 
-var computers = parseInt(readLine(), 10 *2)
+var computers = parseInt(readLine(), 10)
 
 //your code goes here
-// computers * 2;
-console.log(computers)
+console.log(computers * 2)
